@@ -1,0 +1,3 @@
+﻿  main.cpp
+LongNumber.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+  lab02.vcxproj -> C:\Users\user\Documents\Visual Studio 2015\Projects\KPO\lab02\Debug\lab02.exe
